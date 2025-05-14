@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    text-align: center;
+}
+
+.car {
+    background: white;
+    padding: 15px;
+    margin: 20px auto;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.car img {
+    max-width: 100%;
+    border-radius: 5px;
+}
+
+.car h2 {
+    margin-top: 10px;
+}
